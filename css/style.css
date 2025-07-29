@@ -528,12 +528,12 @@ form .send-btn:hover{
         width: 75%;
     }
     header .logo{
-        font-size: 1.6rem ;
-        margin-right: 25px;
+        font-size: 1.5rem ;
+        margin-right: 20px;
     }
     header .top-btnn{
-        font-size: 1.6rem ;
-        margin-left: 25px;
+        font-size: 1.5rem ;
+        margin-left: 20px;
     }
 }
 @media (max-width: 470px){
