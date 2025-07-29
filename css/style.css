@@ -488,13 +488,19 @@ form .send-btn:hover{
 }
 @media (max-width: 950px){
     :root{
-        --h1-font: 3.5rem;
+        --h1-font: 1.5rem;
     }
     .social{
         margin-bottom: 20px;
     }
     #menu-icon{
         display: block;
+    }
+      .hero {
+        background-size: 720px 580px; /* Reduz a imagem sem cortá-la */
+        background-repeat: no-repeat;
+        background-position: middle bottom; /* Centraliza melhor */
+        
     }
     .navlist{
         position: absolute;
@@ -526,6 +532,11 @@ form .send-btn:hover{
         --h1-font: 2.2rem;
         --h2-font: 2rem;
 
+    }
+      .hero {
+        background-size: contain; /* Reduz a imagem sem cortá-la */
+        background-repeat: no-repeat;
+        background-position: center top; /* Centraliza melhor */
     }
 
     .about-img img{
