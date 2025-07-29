@@ -529,11 +529,11 @@ form .send-btn:hover{
     }
     header .logo{
         font-size: 1.6rem ;
-        margin-right: 30px;
+        margin-right: 25px;
     }
     header .top-btnn{
         font-size: 1.6rem ;
-        margin-left: 30px;
+        margin-left: 25px;
     }
 }
 @media (max-width: 470px){
