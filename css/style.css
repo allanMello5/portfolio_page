@@ -529,16 +529,16 @@ form .send-btn:hover{
 }
 @media (max-width: 470px){
     :root{
-        --h1-font: 2.2rem;
-        --h2-font: 2rem;
+        --h1-font: 1.5rem;
+        
 
     }
-      .hero {
-        background-size: contain; /* Reduz a imagem sem cortá-la */
+     .hero {
+        background-size: 620px 480px; /* Reduz a imagem sem cortá-la */
         background-repeat: no-repeat;
-        background-position: center top; /* Centraliza melhor */
+        background-position: middle bottom; /* Centraliza melhor */
+        
     }
-
     .about-img img{
         text-align: center;
         width: 100%;
